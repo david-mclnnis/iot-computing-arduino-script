@@ -1,0 +1,13 @@
+# 객체 관련 함수
+con01=int("21")
+con02=int(1.45)
+con03=str(21)   
+con04=float(21)
+print( con01 )
+print( con02 )
+print( con03 )
+print( con04 )
+print( type( con01 ) )
+print( type( con02 ) )
+print( type( con03 ) )
+print( type( con04 ) )
