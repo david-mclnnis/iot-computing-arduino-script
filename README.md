@@ -2,4 +2,4 @@
 분류 : 사물인터넷-컴퓨팅-아두이노-스크립트 ( iot-computing-arduino-script )
 
 ## 표지
-![표지](/resource/image/cover.jpg)
+![표지](./resource/image/cover.jpg)
