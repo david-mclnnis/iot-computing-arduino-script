@@ -5,7 +5,7 @@
     http://www.micropython.org.cn
 '''
 from machine import I2C, Pin
-from lib_i2c_lcd import LCD1602
+from cheaper06-lib-i2clcd import LCD1602
 from time import sleep_ms
 
 i2c = I2C(0, sda=Pin(21), scl=Pin(22))
