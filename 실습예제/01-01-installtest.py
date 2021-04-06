@@ -14,6 +14,6 @@ while True:
   utime.sleep_ms(20)
   LEDG.value(0)
   
-  LEDG.value(1)
+  LEDB.value(1)
   utime.sleep_ms(20)
-  LEDG.value(0)
+  LEDB.value(0)
